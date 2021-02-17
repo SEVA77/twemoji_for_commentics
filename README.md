@@ -10,13 +10,16 @@ You should also take into account that emoticons are licensed under the Creative
 
 The MIT License applies to my source code, if any.
 
-**Screenshots from my blog:**
+## Screenshots from my blog:
 
-Before
-![before](screenshots/before.png)
+**Before**
 
-After
-![after](screenshots/after.png)
+<img src="screenshots/before.png" width=70% height=70%>
 
-Comments
-![after](screenshots/comments.PNG)
+**After**
+
+<img src="screenshots/after.png" width=70% height=70%>
+
+**Comments**
+
+<img src="screenshots/comments.PNG" width=70% height=70%>
